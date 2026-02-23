@@ -30,7 +30,7 @@ Database: ( SQLite)
 Clone the repository
 
 Bash
-git clone https://github.com/your-username/agrokonnect-backend.git
+git clone https://github.com/Olakitan-01/agrokonnect
 cd agrokonnect-backend
 Install dependencies
 
